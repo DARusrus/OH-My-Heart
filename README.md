@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Predict+Cardiovascular+Disease+Risk;Explain+Every+Prediction+with+SHAP;Calibrated+%7C+Cross-Validated+%7C+Deployed;AUC+0.802+%E2%80%94+State-of-the-Art+on+68%2C634+Patients)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Predict+Cardiovascular+Disease+Risk;Explain+Every+Prediction+with+SHAP;Calibrated+%7C+Cross-Validated+%7C+Deployed;AUC+0.802+%E2%80%94+State-of-the-Art+on+68%2C634+Patients)](https://git.io/typing-svg)
 
 <br/>
 
