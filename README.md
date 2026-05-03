@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=🫀%20CardioRisk%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clinical-Grade%20Cardiovascular%20Disease%20Classifier&descAlignY=60&descSize=18&descColor=aad4f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=220&section=header&text=🫀%20CardioRisk%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clinical-Grade%20Cardiovascular%20Disease%20Classifier&descAlignY=60&descSize=18&descColor=ffb3b3" width="100%"/>
 
 <br/>
 
@@ -588,6 +588,6 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer" width="100%"/>
 
 </div>
